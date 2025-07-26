@@ -11,6 +11,6 @@ This repository contains a Python code for a **stock market screener** that comp
   - 💰 Closing prices  
   - 📉 Volume of shares traded  
 
-### 📄 **Data Output**  
-The program outputs a comprehensive comparison report along with the raw data in a structured format.
+### 📄 **Data Output**
+The program outputs a comprehensive comparison report along with the raw data in a structured format
 
